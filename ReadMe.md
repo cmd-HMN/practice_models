@@ -15,7 +15,7 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 ## Sub-Folders
 | Folder Name             | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
-| **Titanic**             | Analysis and predictions on Titanic survival dataset                     |
+| [**Titanic**](https://github.com/cmd-HMN/practice_models/tree/main/titanic)             | Analysis and predictions on Titanic survival dataset                     |
 | ├── `notebooks/`        | Jupyter notebooks                                                          |
 | ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
 | └── `README.md`         | Overview of the Titanic project                                           |
