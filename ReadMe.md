@@ -20,10 +20,11 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 | ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
 | └── `README.md`         | Overview of the Titanic project                                           |
 |                                                                                                   |
-| **House Price**         | Predicting house prices based on features 🏠                               |
-| └── `README.md`         | Overview of the House Price project                                     |
-
-
+| [**House Price**](https://github.com/cmd-HMN/practice_models/tree/main/house_pricing)         | Predicting house prices based on features 🏠                               |
+| ├── `notebooks/`        | Jupyter notebooks                                                          |
+| ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
+| └── `README.md`         | Overview of the House Pricing project                                           |
+|                                                                                                   |
 ---
 
 ## Acknowledgments 
