@@ -10,13 +10,11 @@
 
 ## Overview
 
-This project is a **Titanic Prediction Model** that marks the beginning of my journey in **AI and Data Science**. The primary goal of this project is to predict passenger survival based on features like age, gender, class, and more.
-
-While the model may not be perfect, it is a reflection of my intuition and serves as a **kickstart to learning and exploring data science concepts**. As I progress in this journey, I plan to enhance the model and my understanding of AI and machine learning.
+This project is a **House Prediction Model**. The primary goal of this project is to predict house pricing based on features given features.
 
 ---
 
-You can also see the the [notebook on kaggle](https://www.kaggle.com/code/cmdhmn/titanic-prediction-acc-75)
+You can also see the the [notebook on kaggle](https://www.kaggle.com/code/cmdhmn/house-prediction-res-18000)
 
 ---
 
@@ -48,12 +46,12 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used in this project is the [Titanic Dataset](https://www.kaggle.com/c/titanic).
+The dataset used in this project is the [Titanic Dataset](https://www.kaggle.com/c/home-data-for-ml-course).
 
 Or run the below command if u have kaggle install in you system
 
 ```bash
-kaggle competitions download -c titanic
+kaggle competitions download -c home-data-for-ml-course
 ```
 
 ---
@@ -64,7 +62,7 @@ kaggle competitions download -c titanic
 
     ```bash
     git clone https://github.com/cmd-HMN/practice_models.git
-    cd titanic
+    cd house_pricing
     ```
 
 2. Install the required dependencies:
@@ -79,21 +77,13 @@ kaggle competitions download -c titanic
     jupyter lab
     ```
 
-4. Open and run the desired notebook from notebooks like -> `titanic_model.ipynb`
-
----
-
-## Next Steps
-
-- Improve the model with hyperparameter tuning and advanced feature engineering.
-- Experiment with additional algorithms and techniques.
-- Document learnings and progress as I advance in the field of AI and Data Science.
+4. Open and run the desired notebook from notebooks like -> `house_pricing.ipynb`
 
 ---
 
 ## Acknowledgments 
 
-- [Kaggle](https://www.kaggle.com/) for the Titanic dataset.
+- [Kaggle](https://www.kaggle.com/) for the Housing Price dataset.
 - The creators and contributors of **scikit-learn**, **Matplotlib**, **Seaborn**, and **JupyterLab** for their amazing tools.
 
 ---
