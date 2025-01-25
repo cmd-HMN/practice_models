@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used in this project is the [Titanic Dataset](https://www.kaggle.com/c/home-data-for-ml-course).
+The dataset used in this project is the [House Prediction Dataset](https://www.kaggle.com/c/home-data-for-ml-course).
 
 Or run the below command if u have kaggle install in you system
 
