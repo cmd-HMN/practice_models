@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used in this project is the [Titanic Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+The dataset used in this project is the [Advanced House Pricing Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
 Or run the below command if u have kaggle install in you system
 

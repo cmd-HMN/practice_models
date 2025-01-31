@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used in this project is the [Titanic Dataset](https://www.kaggle.com/c/spaceship-titanic).
+The dataset used in this project is the [Spaceship titanic Dataset](https://www.kaggle.com/c/spaceship-titanic).
 
 Or run the below command if u have kaggle install in you system
 
