@@ -1,4 +1,4 @@
-# Titanic Prediction Model
+# Advanced House Pricing Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0-orange)](https://scikit-learn.org/)
