@@ -15,7 +15,7 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 ## Sub-Folders
 | Folder Name             | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
-| [**Titanic**](https://github.com/cmd-HMN/practice_models/tree/main/titanic)             | Analysis and predictions on Titanic survival dataset                     |
+| [**Titanic**](https://github.com/cmd-HMN/practice_models/tree/main/titanic)             | Analysis and predictions on Titanic survival dataset     🛳️                 |
 | ├── `notebooks/`        | Jupyter notebooks                                                          |
 | ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
 | └── `README.md`         | Overview of the Titanic project                                           |
@@ -25,6 +25,18 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 | ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
 | └── `README.md`         | Overview of the House Pricing project                                           |
 |                                                                                                   |
+| [**House Prediction Advanced**](https://github.com/cmd-HMN/practice_models/tree/main/house_prediction_advanced)         | Predicting house prices based on features 🏠                               |
+| ├── `notebooks/`        | Jupyter notebooks                                                          |
+| ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
+| └── `README.md`         | Overview of the House Pricing project                                           |
+|                                                                                                   |
+| [**Spaceship Titanic**](https://github.com/cmd-HMN/practice_models/tree/main/spaceship_titanic)         | Predicting survival of the passenger on the titanic in space  🌌                                |
+| ├── `notebooks/`        | Jupyter notebooks                                                          |
+| ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
+| └── `README.md`         | Overview of the House Pricing project                                           |
+|                                                                                                   |
+
+
 ---
 
 ## Acknowledgments 

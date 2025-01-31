@@ -10,11 +10,7 @@
 
 ## Overview
 
-This project is a **House Prediction Model**. The primary goal of this project is to predict house pricing based on features given features.
-
----
-
-You can also see the the [notebook on kaggle](https://www.kaggle.com/code/cmdhmn/house-prediction-res-18000)
+This project is a **Spaceship Titanic Survival Prediction Model**. The goal is to predict whether passengers survived the mysterious Spaceship Titanic disaster based on given features using machine learning techniques. 🚀🛸✨
 
 ---
 
@@ -46,23 +42,15 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used in this project is the [House Prediction Dataset](https://www.kaggle.com/c/home-data-for-ml-course).
+The dataset used in this project is the [Titanic Dataset](https://www.kaggle.com/c/spaceship-titanic).
 
 Or run the below command if u have kaggle install in you system
 
 ```bash
-kaggle competitions download -c home-data-for-ml-course
+kaggle competitions download -c spaceship-titanic
 ```
 
 ---
-
----
-
-You can also see the the [notebook on kaggle](https://www.kaggle.com/code/cmdhmn/titanic-prediction-acc-75)
-
----
-
-
 
 ## How to Run
 
@@ -70,7 +58,7 @@ You can also see the the [notebook on kaggle](https://www.kaggle.com/code/cmdhmn
 
     ```bash
     git clone https://github.com/cmd-HMN/practice_models.git
-    cd house_pricing
+    cd titanic
     ```
 
 2. Install the required dependencies:
@@ -85,13 +73,21 @@ You can also see the the [notebook on kaggle](https://www.kaggle.com/code/cmdhmn
     jupyter lab
     ```
 
-4. Open and run the desired notebook from notebooks like -> `house_pricing.ipynb`
+4. Open and run the desired notebook from notebooks like -> `spaceship-titanic.ipynb`
+
+---
+
+## Next Steps
+
+- Improve the model with hyperparameter tuning and advanced feature engineering.
+- Experiment with additional algorithms and techniques.
+- Document learnings and progress as I advance in the field of AI and Data Science.
 
 ---
 
 ## Acknowledgments 
 
-- [Kaggle](https://www.kaggle.com/) for the Housing Price dataset.
+- [Kaggle](https://www.kaggle.com/) for the Spaceship titanic dataset.
 - The creators and contributors of **scikit-learn**, **Matplotlib**, **Seaborn**, and **JupyterLab** for their amazing tools.
 
 ---
