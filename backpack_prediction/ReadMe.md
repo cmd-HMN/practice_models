@@ -16,6 +16,10 @@ For more info visit [kaggle](https://www.kaggle.com/competitions/playground-seri
 
 ---
 
+## Kaggle notebook
+
+To see the kaggle notebook visit [kaggle](https://www.kaggle.com/code/cmdhmn/just-wasting-time)
+
 ## Features
 
 - Built using **scikit-learn** for machine learning.

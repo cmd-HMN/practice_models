@@ -58,7 +58,7 @@ kaggle competitions download -c spaceship-titanic
 
     ```bash
     git clone https://github.com/cmd-HMN/practice_models.git
-    cd titanic
+    cd spaceship_titanic
     ```
 
 2. Install the required dependencies:

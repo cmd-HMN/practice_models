@@ -35,6 +35,12 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 | ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
 | └── `README.md`         | Overview of the House Pricing project                                           |
 |                                                                                                   |
+| [**BackPack Prediction**](https://github.com/cmd-HMN/practice_models/tree/main/backpack_prediction)         | Predicting backpack prices  🎒                                |
+| ├── `notebooks/`        | Jupyter notebooks                                                          |
+| ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
+| └── `README.md`         | Overview of the House Pricing project                                           |
+|                                                                                                   |
+
 
 
 ---

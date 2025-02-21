@@ -56,7 +56,7 @@ kaggle competitions download -c house-prices-advanced-regression-techniques
 
     ```bash
     git clone https://github.com/cmd-HMN/practice_models.git
-    cd titanic
+    cd house-prices-advanced-regression-techniques
     ```
 
 2. Install the required dependencies:
