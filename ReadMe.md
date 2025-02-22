@@ -12,6 +12,12 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 
 ---
 
+## Kaggle
+
+Visit for my kaggle profile -> [cmd-HMN](https://www.kaggle.com/cmdhmn)
+
+---
+
 ## Sub-Folders
 | Folder Name             | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -36,6 +42,11 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 | └── `README.md`         | Overview of the House Pricing project                                           |
 |                                                                                                   |
 | [**BackPack Prediction**](https://github.com/cmd-HMN/practice_models/tree/main/backpack_prediction)         | Predicting backpack prices  🎒                                |
+| ├── `notebooks/`        | Jupyter notebooks                                                          |
+| ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
+| └── `README.md`         | Overview of the House Pricing project                                           |
+|
+| [**Store Sale Prediction**](https://github.com/cmd-HMN/practice_models/tree/main/store_sales_prediction)         | Predictions regarding store sales 🏪 🎒                                |
 | ├── `notebooks/`        | Jupyter notebooks                                                          |
 | ├── `requirements.txt`  | Python dependencies for reproducibility                                   |
 | └── `README.md`         | Overview of the House Pricing project                                           |
