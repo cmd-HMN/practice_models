@@ -35,4 +35,4 @@ Other authors link are in there notebooks
 
 ---
 
-![I Use Arch BTW](https://img.shields.io/badge/I_Use-Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
+![I Use Arch BTW](https://img.shields.io/badge/I_Use-Arch_BTW-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
