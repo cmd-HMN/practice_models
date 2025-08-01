@@ -84,12 +84,15 @@ def train_find_weights(X, y, cfg=cfg):
                     border_style="red3"
                 ), new_line_start=True
             )
-        optweights = OptunaWeights(cfg)
-        y_val_pred = optweights.fit_predict(y_val, oof_preds)
+
         
-        y_val_pred_labels = np.argmax(y_val_pred, axis=1)
-        f1_micro_score = score(y_val, y_val_pred_labels)
-        text += f'[bold red]Ensemble Score[/bold red]  ----- F1 Micro Score: [bold yellow]{f1_micro_score:.5f}[/bold yellow]'
+        with console.status(f"[bold]Optuna on the run[/bold]", spinner="arc"):
+            optweights = OptunaWeights(cfg)
+            y_val_pred = optweights.fit_predict(y_val, oof_preds)
+        
+            y_val_pred_labels = np.argmax(y_val_pred, axis=1)
+            f1_micro_score = score(y_val, y_val_pred_labels)
+            text += f'[bold red]Ensemble Score[/bold red]  ----- F1 Micro Score: [bold yellow]{f1_micro_score:.5f}[/bold yellow]'
 
         console.print(Panel.fit(text, title="F1 Scores", border_style="purple3"), new_line_start=True)
 
