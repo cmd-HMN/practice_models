@@ -14,7 +14,7 @@ This repo has model that I have came accross and created mostly on the [Kaggle](
 
 ## Kaggle
 
-Visit for my kaggle profile -> [cmd-HMN]([https://www.kaggle.com/cmdhmn](https://www.kaggle.com/xcmdhmnx))
+Visit for my kaggle profile -> [cmd-HMN](https://www.kaggle.com/xcmdhmnx)
 
 ---
 
